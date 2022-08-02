@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adamina</item>
+        <item>@font/alatsi</item>
+        <item>@font/alike</item>
+        <item>@font/amaranth</item>
+        <item>@font/arbutus</item>
+        <item>@font/baloo_bhai</item>
+        <item>@font/bigshot_one</item>
+        <item>@font/bungee</item>
+        <item>@font/calistoga</item>
+    </array>
+</resources>
